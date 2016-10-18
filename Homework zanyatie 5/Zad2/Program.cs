@@ -10,6 +10,9 @@ namespace Zad2
     {
         static void Main(string[] args)
         {
+            // Задача 2: Напишете програма, която попълва числата на Фибоначи в масив.
+            // Потребител въвежда колко да е голям масива.
+
             // Въвеждаме масив с дължина N
             Console.WriteLine("Enter array lenght:");
             int N = int.Parse(Console.ReadLine());

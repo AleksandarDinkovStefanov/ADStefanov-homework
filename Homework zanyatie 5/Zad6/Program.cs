@@ -35,7 +35,7 @@ namespace Zad6
 			{
                 Console.Write(myArray2[i]);
 			}
-            Console.WriteLine("    ");
+            Console.WriteLine("");
 
             // Дълго решение:
             //// Първо задаваме "ръчно"дължината N на масив:

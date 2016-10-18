@@ -10,6 +10,8 @@ namespace Zad6
     {
         static void Main(string[] args)
         {
+            // ЗАДАЧА: Напишете програма която пресмята с колко 0ли завършва факториелът на дадено число.
+
             Console.WriteLine("Въведете число n, чийто факториел да се изчисли: ");
             int n = int.Parse(Console.ReadLine());
             double factorial = 1;
