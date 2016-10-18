@@ -16,9 +16,7 @@ namespace Zad8
 
             Console.WriteLine("Въведете текст");
             string str = Console.ReadLine();
-            char res = (str[5]);
-            string final = ("Петият символ от въведения текст е ");
-            Console.WriteLine(final + res);
+            Console.WriteLine("Петият символ е " + str[5]);
         }
     }
 }

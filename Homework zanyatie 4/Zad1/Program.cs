@@ -10,16 +10,29 @@ namespace Zad1
     {
         static void Main(string[] args)
         {
-            int a = 0;
-            a ++;
-            while (a <= 20)
+            //Напишете програма, която отпечатва на конзолата 
+            // числата от 1 до N. Числото N се въвежда от конзолата.
+            
+            Console.WriteLine("Enter Integer");
+            int a = 1;
+            var N = int.Parse(Console.ReadLine());
+            while (a <= N)
             {
-                if (a % 2 == 0)
-                {
-                    Console.WriteLine(a);  
-                }
+                Console.WriteLine(a);
                 a++;
             }
+
+
+
+            // Вар.2:
+            //int a = 0;
+            //var N = int.Parse(Console.ReadLine());
+            //do
+            //{
+            //    a++;
+            //    Console.WriteLine(a); 
+            //} while (a < N);
+
         }
     }
 }
