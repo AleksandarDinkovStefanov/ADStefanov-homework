@@ -1,0 +1,6 @@
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 4\Zad6\bin\Debug\Zad6.exe.config
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 4\Zad6\bin\Debug\Zad6.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 4\Zad6\bin\Debug\Zad6.pdb
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 4\Zad6\obj\Debug\Zad6.csprojResolveAssemblyReference.cache
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 4\Zad6\obj\Debug\Zad6.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 4\Zad6\obj\Debug\Zad6.pdb

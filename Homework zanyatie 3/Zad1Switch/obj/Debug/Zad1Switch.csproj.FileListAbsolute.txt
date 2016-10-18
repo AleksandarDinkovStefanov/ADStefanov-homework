@@ -1,0 +1,6 @@
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad1Switch\bin\Debug\Zad1Switch.exe.config
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad1Switch\obj\Debug\Zad1Switch.csprojResolveAssemblyReference.cache
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad1Switch\bin\Debug\Zad1Switch.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad1Switch\bin\Debug\Zad1Switch.pdb
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad1Switch\obj\Debug\Zad1Switch.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad1Switch\obj\Debug\Zad1Switch.pdb

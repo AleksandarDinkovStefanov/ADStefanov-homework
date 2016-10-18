@@ -1,0 +1,6 @@
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\ZadFromClassSwitch\bin\Debug\ZadFromClassSwitch.exe.config
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\ZadFromClassSwitch\bin\Debug\ZadFromClassSwitch.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\ZadFromClassSwitch\bin\Debug\ZadFromClassSwitch.pdb
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\ZadFromClassSwitch\obj\Debug\ZadFromClassSwitch.csprojResolveAssemblyReference.cache
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\ZadFromClassSwitch\obj\Debug\ZadFromClassSwitch.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\ZadFromClassSwitch\obj\Debug\ZadFromClassSwitch.pdb

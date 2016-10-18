@@ -1,0 +1,5 @@
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad2\bin\Debug\Zad2.exe.config
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad2\bin\Debug\Zad2.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad2\bin\Debug\Zad2.pdb
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad2\obj\Debug\Zad2.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad2\obj\Debug\Zad2.pdb

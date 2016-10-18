@@ -1,0 +1,5 @@
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad3Switch\bin\Debug\Zad3Switch.exe.config
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad3Switch\bin\Debug\Zad3Switch.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad3Switch\bin\Debug\Zad3Switch.pdb
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad3Switch\obj\Debug\Zad3Switch.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 3\Zad3Switch\obj\Debug\Zad3Switch.pdb

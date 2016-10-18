@@ -1,0 +1,5 @@
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 5\Zad5\bin\Debug\Zad5.exe.config
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 5\Zad5\bin\Debug\Zad5.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 5\Zad5\bin\Debug\Zad5.pdb
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 5\Zad5\obj\Debug\Zad5.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\Homework zanyatie 5\Zad5\obj\Debug\Zad5.pdb
