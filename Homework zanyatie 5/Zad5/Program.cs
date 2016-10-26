@@ -15,7 +15,7 @@ namespace Zad5
             // Задаваме първия масив:
             int[] myArray = { 1, 2, 3, 4, 5 };
             
-            // Извеждаме първия масив на екрана:
+            // Извеждаме първия масив на екрана (може и да не се прави):
             Console.WriteLine("The values of the first array are: ");
             for (int i = 0; i < myArray.Length; i++)
             {
@@ -31,14 +31,19 @@ namespace Zad5
                 myArray2[i] = myArray[i];
             }
 
-            // Извеждаме новия масив на екрана:
+            // Извеждаме новия масив на екрана с for:
             Console.WriteLine("The values of the second array are: ");
             for (int i = 0; i < myArray.Length; i++)
             {
-                Console.Write(myArray[i] + " ");
+                Console.Write(myArray2[i] + " ");
             }
             Console.WriteLine("");
-            
+
+            // Извеждаме новия масив на екрана с foreach:
+            foreach (var item in myArray2)
+            {
+                Console.Write(item + " ");
+            }
 
 
 
